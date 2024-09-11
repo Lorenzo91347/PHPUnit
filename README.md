@@ -39,6 +39,7 @@ This project is intended to introduce the developer to basic functionalities of 
  with checking functionality being an integral part of a developer's job.
 
  ## Links:
-
- 1. Documentation of the latest version of PHPUnit,which is used here:[https://docs.phpunit.de/en/11.3/]
- 2. The FreeCodeCamp page which inspired this project:[https://www.freecodecamp.org/news/test-php-code-with-phpunit/]
+    
+ 1. Webpage for download and documentation of Composer:[https://getcomposer.org/]
+ 2. Documentation of the latest version of PHPUnit,which is used here:[https://docs.phpunit.de/en/11.3/]
+ 3. The FreeCodeCamp page which inspired this project:[https://www.freecodecamp.org/news/test-php-code-with-phpunit/]
