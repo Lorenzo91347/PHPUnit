@@ -36,9 +36,9 @@ This project is intended to introduce the developer to basic functionalities of 
  ## And that is all!
 
  Do play around with the code and different PHPUnit keywords,so you'll be able to write even more complex tests,
- with Checking functionality being an integral part of a developer's job.
+ with checking functionality being an integral part of a developer's job.
 
  ## Links:
 
- Documentation of the latest version of PHPUnit,which is used here:[https://docs.phpunit.de/en/11.3/]
- The FreeCodeCamp page which inspired this project:[https://www.freecodecamp.org/news/test-php-code-with-phpunit/]
+ 1. Documentation of the latest version of PHPUnit,which is used here:[https://docs.phpunit.de/en/11.3/]
+ 2. The FreeCodeCamp page which inspired this project:[https://www.freecodecamp.org/news/test-php-code-with-phpunit/]
